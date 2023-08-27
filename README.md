@@ -24,19 +24,7 @@ git clone https://github.com/uestc-wxy/bubble.git
 CREATE DATABASE bubble DEFAULT CHARSET=utf8mb4;
 ```
 
-1. 在`bubble/conf/config.ini`文件中按如下提示配置数据库连接信息。
-
-```
-port = 8080
-release = false
-
-[mysql]
-user = 你的数据库用户名
-password = 你的数据库密码
-host = 你的数据库host地址
-port = 你的数据库端口
-db = bubble
-```
+2. 在`mysql.go`文件中配置数据库连接信息。
 
 ### 编译
 
