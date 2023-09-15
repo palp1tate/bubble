@@ -13,7 +13,7 @@
 ### 下载
 
 ```
-git clone https://github.com/uestc-wxy/bubble.git
+git clone https://github.com/palp1tate/bubble.git
 ```
 
 ### 配置MySQL
@@ -40,4 +40,4 @@ go build
 
 启动之后，使用浏览器打开`http://127.0.0.1:8080/`即可。
 
-![image](https://github.com/uestc-wxy/bubble/assets/120303802/153e14ac-08dd-49e3-9d9d-210701c7c9a2)
+![image](https://github.com/palp1tate/bubble/assets/120303802/153e14ac-08dd-49e3-9d9d-210701c7c9a2)
